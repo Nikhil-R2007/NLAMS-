@@ -488,50 +488,6 @@ The current deployed NLAMS application is available here:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the major application modules here.
-
-### Dashboard
-
-```text
-screenshots/dashboard.png
-```
-
-### Project Management
-
-```text
-screenshots/project-management.png
-```
-
-### Land Acquisition Tracking
-
-```text
-screenshots/land-acquisition.png
-```
-
-### GIS Monitoring
-
-```text
-screenshots/gis.png
-```
-
-### Document Analysis
-
-```text
-screenshots/document-analysis.png
-```
-
-### Citizen Portal
-
-```text
-screenshots/citizen-portal.png
-```
-
-> Replace these placeholders with actual screenshots from the project repository.
-
----
-
 ## 🌍 Target Infrastructure Sectors
 
 NLAMS is designed as a multi-sector platform supporting land acquisition requirements for:
