@@ -444,7 +444,7 @@ If backend or AI services are included:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Nikhil-R2007/NLAMS-.git
 cd YOUR-REPOSITORY
 ```
 
