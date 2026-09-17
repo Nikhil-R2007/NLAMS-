@@ -552,25 +552,11 @@ The platform does not replace statutory authorities, government records, legal p
 AI-generated information should be reviewed by authorized personnel before being used for administrative, legal, financial, or statutory decisions.
 
 ---
-
 ## 📄 License
 
-Add the license applicable to your repository.
+This project is licensed under the **MIT License**.
 
-Example:
-
-```text
-MIT License
-```
-
-or
-
-```text
-Apache License 2.0
-```
-
-Use the license that is actually included in the repository.
-
+See the [LICENSE](LICENSE) file for details.
 ---
 
 ## ⭐ Project
